@@ -7,12 +7,12 @@ successors) language. This should be useful for LIR and RIPE hackers.
 
 Done so far: Very basic syntax highlighting; more to come.
 
-## Here's my part
+## My part
 
 I write this thingy for myself not being a huge master in either Vim or RPSL.
 Now read the
 
 ## Your part
 
-Feel free to fork and extend this project sonce I'm sure you do much better
-than me in either part.
+Feel free to fork and extend this project since I'm sure you do much better
+than me in either sbject.
