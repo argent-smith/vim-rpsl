@@ -7,7 +7,7 @@ successors) language. This should be useful for LIR and RIPE hackers.
 
 Done so far:
 
-  + Keyword, colon and string (basic tuple) hoghlighting,
+  + Keyword, colon and string (basic tuple) highlighting,
   + RPSL class keyword and its tuple colored differently,
   + Coments are also highlighted.
 
