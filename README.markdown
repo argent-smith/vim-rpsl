@@ -21,3 +21,8 @@ Now read the
 
 Feel free to fork and extend this project since I'm sure you do much better
 than me in either sbject.
+
+## Where to get/comlain
+
++ [GitHub.com repository](https://github.com/argent-smith/vim-rpsl)
++ [Author](http://argent-smith.github.com)
