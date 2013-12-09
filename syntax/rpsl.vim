@@ -20,7 +20,7 @@ syn match rpslComment /^\s*[%#].*/
 
 
 " RPSL classes
-syn match rpslClass   /^\s*\(mntner\|person\|role\|as-set\|route-set\|rtr-set\|aut-num\|dictionary\|route\|inetnum\):/ contained contains=rpslDelim nextgroup=rpslTitle
+syn match rpslClass   /^\s*\(mntner\|person\|role\|as-set\|route-set\|rtr-set\|aut-num\|dictionary\|route\|route6\|inetnum\|inet6num\):/ contained contains=rpslDelim nextgroup=rpslTitle
 syn match rpslTitle   /\s*.*/ contained
 
 " Standard mappings
